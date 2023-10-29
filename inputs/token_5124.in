@@ -5,7 +5,7 @@ balance: u32 = 100u32;
 [transfer]
 receiver: address = aleo1q7pxcsaepcqa6lu97s0243c94nlkemvkpt4ecuze7auvf8l7ssqspf9e6l;
 amount: u32 = 10u32;
-input: Token = Token {
+input: Token = Token{
   owner: aleo1t990qdypq2massqw7pa92rnh83n54dwtwtr5mhrgtv8zra86d5fq8xrqkh,
   balance: 10u32,
   _nonce: 5611502993318582034681016542736429467854343128991448327038604057332125899366group

@@ -1,5 +1,6 @@
 // The 'token_5124' program.
 program token_5124.aleo {
+    
     record Token {
         owner: address,
         balance: u32,
@@ -25,6 +26,6 @@ program token_5124.aleo {
             balance: balance
         };
 
-        return (recipient);
+        return (recipient, sender);
     }
 }
