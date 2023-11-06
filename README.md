@@ -1,3 +1,4 @@
+Discord: formuling
 # token_5124.aleo
 
 ## Build Guide
